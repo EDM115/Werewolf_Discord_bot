@@ -1,5 +1,7 @@
 # Werewolf Discord bot
 
+[![Crowdin](https://badges.crowdin.net/werewolf-discord-bot/localized.svg)](https://crowdin.com/project/werewolf-discord-bot)
+
 ---
 
 ## This bot will be in french since it's made for french friends. But documentation will be english
@@ -18,4 +20,30 @@
 
 ---
 
-### 
+### Included roles :
+- Werewolf side
+  - [ ] Werewolf
+  - [ ] White werewolf
+  - [ ] Infect father of werewolves
+  - [ ] Amnesiac werewolf
+  - [ ] Felt werewolf
+  - [ ] Perfidious werewolf
+  - [ ] Mystical werewolf
+  - [ ] Naughty little werewolf
+- Villager side :
+  - [ ] Idiot
+  - [ ] Simple villager
+  - [ ] Hunter
+  - [ ] Angel
+  - [ ] Crow
+  - [ ] Miner
+  - [ ] Pyromaniac
+- Others :
+  - [ ] Wild child
+  - [ ] Assassin
+  - [ ] Thief
+  - [ ] Angel
+  - [ ] Guardian angel
+  - [ ] Fallen angel
+  - [ ] Rival
+  - [ ] Troublemaker
