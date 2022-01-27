@@ -2,6 +2,8 @@
 
 [![Crowdin](https://badges.crowdin.net/werewolf-discord-bot/localized.svg)](https://crowdin.com/project/werewolf-discord-bot)
 
+# Based on The Werewolves of Miller's Hollows *(Les Loups-Garous de Thiercelieux in original version)*
+
 ---
 
 ## This bot will be in french since it's made for french friends. But documentation will be english
@@ -16,6 +18,7 @@
   - Hosted on Heroku
   - Modular bot that anyone can deploy easily
   - Highly documented
+  - Detailled storytelling
 </details>
 
 ---
@@ -47,3 +50,5 @@
   - [ ] Fallen angel
   - [ ] Rival
   - [ ] Troublemaker
+- Note : every role will have unique specs, I'll make an explanation file regarding to this
+
