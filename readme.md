@@ -22,8 +22,10 @@
 </details>
 
 ---
-
 ### Included roles :
+<details open>
+  <summary></summary>
+  
 - Werewolf side
   - [ ] Werewolf
   - [ ] White werewolf
@@ -51,4 +53,5 @@
   - [ ] Rival
   - [ ] Troublemaker
 - Note : every role will have unique specs, I'll make an explanation file regarding to this
+</details>
 
