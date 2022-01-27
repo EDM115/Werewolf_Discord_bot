@@ -2,7 +2,7 @@
 
 [![Crowdin](https://badges.crowdin.net/werewolf-discord-bot/localized.svg)](https://crowdin.com/project/werewolf-discord-bot)
 
-# Based on The Werewolves of Miller's Hollows *(Les Loups-Garous de Thiercelieux in original version)*
+# Based on The Werewolves of Miller's Hollows *(Les Loups-Garous de Thiercelieux in original version)* but in UHC *(ultra hardcore)* version
 
 ---
 
@@ -55,3 +55,7 @@
 - Note : every role will have unique specs, I'll make an explanation file regarding to this
 </details>
 
+---
+
+#### Thanks to :
+- [Fenriir42](https://github.com/Fenriir42) for giving me rules, roles and ideas
