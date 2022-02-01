@@ -57,5 +57,17 @@
 
 ---
 
+## How it works ?
+
+This will use the [`pycord framework`](https://github.com/Pycord-Development/pycord), because discord.py is no longer maintained  
+
+---
+
+## How to deploy it ?
+
+Work in progress, but we're thinking about [![Heroku](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy), [![Repl.it](https://repl.it/badge/github/EDM115/Werewolf_Discord_bot)](https://repl.it/github/EDM115/Werewolf_Discord_bot}&ref=button) or [![Gitpod](https://gitpod.io/button/open-in-gitpod.svg)](https://gitpod.io/#https://github.com/EDM115/Werewolf_Discord_bot)
+
+---
+
 #### Thanks to :
 - [Fenriir42](https://github.com/Fenriir42) for giving me rules, roles and ideas
