@@ -65,7 +65,10 @@ This will use the [`pycord framework`](https://github.com/Pycord-Development/pyc
 
 ## How to deploy it ?
 
-Work in progress, but we're thinking about [![Heroku](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy), [![Repl.it](https://repl.it/badge/github/EDM115/Werewolf_Discord_bot)](https://repl.it/github/EDM115/Werewolf_Discord_bot}&ref=button) or [![Gitpod](https://gitpod.io/button/open-in-gitpod.svg)](https://gitpod.io/#https://github.com/EDM115/Werewolf_Discord_bot)
+Work in progress, but we're thinking about simple deploy to [![Heroku](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/EDM115/Werewolf_Discord_bot) or [![Railway](https://railway.app/button.svg)](https://railway.app/new/template?template=https://github.com/EDM115/Werewolf_Discord_bot)  
+Self hosting and deploying to VPS is also in progress  
+Launching on [![Repl.it](https://repl.it/badge/github/EDM115/Werewolf_Discord_bot)](https://repl.it/github/EDM115/Werewolf_Discord_bot}&ref=button), [![Gitpod](https://gitpod.io/button/open-in-gitpod.svg)](https://gitpod.io/#https://github.com/EDM115/Werewolf_Discord_bot) or [![PythonAnywhere](https://www.pythonanywhere.com/static/anywhere/images/PA-logo-snake-only.svg)](https://www.pythonanywhere.com/)  
+A launch directly from [![Google Cloud](https://i.imgur.com/e3uIlI8.png)](https://console.cloud.google.com/) is also planned 😳  
 
 ---
 
