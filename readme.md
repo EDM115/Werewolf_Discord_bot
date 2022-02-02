@@ -66,21 +66,18 @@ This will use the [`pycord framework`](https://github.com/Pycord-Development/pyc
 ## How to deploy it ?
 
 Work in progress, but we're thinking about simple deploy to 
-<a href="https://heroku.com/deploy?template=https://github.com/EDM115/Werewolf_Discord_bot" target="_blank"><img src="https://www.herokucdn.com/deploy/button.svg" alt="Heroku" width="147" height="32" border="0"/></a>
-[![Heroku](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/EDM115/Werewolf_Discord_bot)
-<a href="https://railway.app/new/template?template=https://github.com/EDM115/Werewolf_Discord_bot" target="_blank"><img src="https://railway.app/button.svg" alt="Railway" width="147" height="32" border="0"/></a>
-or [![Railway](https://railway.app/button.svg)](https://railway.app/new/template?template=https://github.com/EDM115/Werewolf_Discord_bot)  
+<a href="https://heroku.com/deploy?template=https://github.com/EDM115/Werewolf_Discord_bot" target="_blank"><img src="https://www.herokucdn.com/deploy/button.svg" alt="Heroku" width="147" height="32" border="0"/></a> or 
+<a href="https://railway.app/new/template?template=https://github.com/EDM115/Werewolf_Discord_bot" target="_blank"><img src="https://railway.app/button.svg" alt="Railway" width="147" height="32" border="0"/></a>  
+
 Self hosting and deploying to VPS is also in progress  
+
 Launching on 
-<a href="https://repl.it/github/EDM115/Werewolf_Discord_bot}&ref=button" target="_blank"><img src="https://repl.it/badge/github/EDM115/Werewolf_Discord_bot" alt="Repl.it" width="147" height="32" border="0"/></a>
-[![Repl.it](https://repl.it/badge/github/EDM115/Werewolf_Discord_bot)](https://repl.it/github/EDM115/Werewolf_Discord_bot}&ref=button), 
-<a href="https://gitpod.io/#https://github.com/EDM115/Werewolf_Discord_bot" target="_blank"><img src="(https://gitpod.io/button/open-in-gitpod.svg" alt="Gitpod" width="147" height="32" border="0"/></a>
-[![Gitpod](https://gitpod.io/button/open-in-gitpod.svg)](https://gitpod.io/#https://github.com/EDM115/Werewolf_Discord_bot)
-<a href="https://www.pythonanywhere.com/" target="_blank"><img src="https://www.pythonanywhere.com/static/anywhere/images/PA-logo-snake-only.svg" alt="PythonAnywhere" width="147" height="32" border="0"/></a>
-or [![PythonAnywhere](https://www.pythonanywhere.com/static/anywhere/images/PA-logo-snake-only.svg)](https://www.pythonanywhere.com/)  
+<a href="https://repl.it/github/EDM115/Werewolf_Discord_bot}&ref=button" target="_blank"><img src="https://repl.it/badge/github/EDM115/Werewolf_Discord_bot" alt="Repl.it" width="147" height="32" border="0"/></a>, 
+<a href="https://gitpod.io/#https://github.com/EDM115/Werewolf_Discord_bot" target="_blank"><img src="https://gitpod.io/button/open-in-gitpod.svg" alt="Gitpod" width="120" height="32" border="0"/></a> or 
+<a href="https://www.pythonanywhere.com/" target="_blank"><img src="https://www.pythonanywhere.com/static/anywhere/images/PA-logo.svg" alt="PythonAnywhere" width="253" height="32" border="0"/></a> might be available  
+
 A launch directly from 
-<a href="https://console.cloud.google.com/" target="_blank"><img src="https://i.imgur.com/e3uIlI8.png" alt="Google Cloud" width="147" height="32" border="0"/></a>
-[![Google Cloud](https://i.imgur.com/e3uIlI8.png)](https://console.cloud.google.com/) is also planned 😳  
+<a href="https://console.cloud.google.com/" target="_blank"><img src="https://i.imgur.com/e3uIlI8.png" alt="Google Cloud" width="125" height="32" border="0"/></a> is also planned 😳  
 
 ---
 
